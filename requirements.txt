@@ -51,6 +51,7 @@ geographic-msgs==1.0.6
 geometry-msgs==4.9.1
 glfw==2.10.0
 gymnasium==1.2.3
+gymnasium-robotics==1.4.2
 image-geometry==3.2.1
 ImageIO==2.37.3
 importlib_resources==6.5.2
@@ -97,6 +98,7 @@ packaging==26.0
 pandas==2.3.3
 pcl-msgs==1.0.0
 pendulum-msgs==0.20.8
+pettingzoo==1.25.0
 pillow==12.1.1
 PyOpenGL==3.1.10
 pyparsing==3.3.2
